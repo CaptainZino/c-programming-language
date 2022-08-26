@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/7/16 21:40:32。
+     1>项目“D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\test_2022_07_16_DEBUG\test_2022_07_16_DEBUG.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\test_2022_07_16_DEBUG.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Install\visual studio 2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+       Link:
+         D:\Install\visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\Release\test_2022_07_16_DEBUG.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\test_2022_07_16_DEBUG.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\Release\test_2022_07_16_DEBUG.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\Release\test_2022_07_16_DEBUG.lib" /MACHINE:X86 Release\test.obj
+         正在生成代码
+         已完成代码的生成
+         test_2022_07_16_DEBUG.vcxproj -> D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\Release\test_2022_07_16_DEBUG.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\Release\test_2022_07_16_DEBUG.exe;#1" /manifest Release\test_2022_07_16_DEBUG.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\test_2022_07_16_DEBUG.unsuccessfulbuild”。
+         正在对“Release\test_2022_07_16_DEBUG.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Learn something\workspace\sourcefile for C\test_2022_07_16_DEBUG\test_2022_07_16_DEBUG\test_2022_07_16_DEBUG.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.37

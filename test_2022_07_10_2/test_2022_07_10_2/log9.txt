@@ -1,0 +1,10 @@
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=0
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=1
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=2
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=3
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=4
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=5
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=6
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=7
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=8
+file:d:\learn something\workspace\sourcefile for c\test_2022_07_10_2\test_2022_07_10_2\test.c  line:58  date:Jul 29 2022  time:09:52:19  i=9
